@@ -1,4 +1,4 @@
-# 🚀 LinkedIn Company Page Auto Poster (FastAPI)
+# 🚀 LinkedIn Auto Poster (FastAPI)
 
 This FastAPI project provides an API endpoint to automate posting text content to a LinkedIn **Company Page** using the LinkedIn Marketing API.
 
